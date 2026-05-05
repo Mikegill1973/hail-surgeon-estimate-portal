@@ -1,0 +1,5 @@
+body{font-family:Arial,sans-serif;background:#f8fafc;margin:0;padding:20px;color:#111827}
+.table{width:100%;border-collapse:collapse;background:white}
+th,td{border:1px solid #e5e7eb;padding:8px;font-size:12px}
+.card{background:white;padding:16px;border:1px solid #e5e7eb;border-radius:8px;margin-bottom:16px}
+input,select,button,textarea{padding:8px;border:1px solid #d1d5db;border-radius:6px;margin:4px}
